@@ -1,0 +1,131 @@
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.body {
+    text-align: center;
+}
+
+.footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.logo-image {
+    width: 120px;
+}
+
+.tutor-info {
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 5rem
+}
+
+.default-btn-color {
+    color: darkslategrey;
+    background: lightgrey;
+    border-color: darkgrey;
+    font-weight: bold;
+}
+
+.card-text {
+    text-align: left;
+    font-weight: bold;
+}
+
+.container-align-left {
+  text-align: left;
+}
+
+.container-align-right {
+  text-align: right;
+}
+
+.container-align-filter {
+  text-align: left;
+}
+
+.container-align-sort {
+  text-align: right;
+}
+
+.container-align-city-name {
+  text-align: right;
+}
+
+.outline-button {
+    color: black;
+    background: whitesmoke;
+}
+
+.card-body {
+    background-color: lightgrey;
+}
+
+.label-font{
+    font-weight: bold;
+    justifyContent: 'space-between'
+}
+
+.tutor-separator {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.tutor-separator-mini {
+  margin-bottom: 0.5rem;
+}
+
+.tutor-separator-card {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.card-header-separator {
+  margin-bottom: 2rem;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.tutor-thumbnail {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+  width: 85%;
+}
+
+/** Adjust Card width and size */
+.tutor-card {
+  min-width: 15rem;
+  min-height: 20rem;
+}
+
+.wide-container {
+  max-width: 95%;
+}
+
+.table-header-label {
+  margin-right: 0.5rem;
+}
+
+.horizontal-divider {
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 1200px) {
+  .container-align-filter {
+    text-align: center;
+  }
+
+  .container-align-sort {
+    text-align: left;
+  }
+
+  .container-align-city-name {
+    text-align: left;
+  }
+}

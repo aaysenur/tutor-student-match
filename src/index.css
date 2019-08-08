@@ -1,0 +1,8 @@
+@font-face {
+  font-family: tutor-match-font-family;
+  src: url('./fonts/Avenir.ttc');
+}
+
+div {
+  font-family: tutor-match-font-family;
+}
