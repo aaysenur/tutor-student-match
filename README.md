@@ -24,7 +24,7 @@ Below you can see the screenshots of the application in different viewports.
 
 ![Filter by City](./screenshots/filter_by_city.png?raw=true "Filter by City")
 
-![Show All](./screenshots/show_all.png?raw=true "Show All")
+![Show All](./screenshots/show_all.png)
 
 # General create-react-app Instructions
 
