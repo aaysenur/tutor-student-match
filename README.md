@@ -18,15 +18,11 @@ Below you can see the screenshots of the application in different viewports.
 
 ![Initial Full Landing Page](https://github.com/aaysenur/tutor-student-match/blob/master/screenshots/full-landing-page.png "Initial Full Landing Page")
 
-![Alt text](/../<master>/screenshots/to/full_landing_page.png?raw=true "Optional Title")
+![Sort by City](https://github.com/aaysenur/tutor-student-match/blob/master/screenshots/sort-by-city.png "Sort by City")
 
-![Initial Full Landing Page](screenshots/full_landing_page.png?raw=true "Initial Full Landing Page")
+![Filter by City](https://github.com/aaysenur/tutor-student-match/blob/master/screenshots/filter-by-city.png "Filter by City")
 
-![Sort by City](./screenshots/sort_by_city.png?raw=true "Sort by City")
-
-![Filter by City](./screenshots/filter_by_city.png?raw=true "Filter by City")
-
-![Show All](./screenshots/show_all.png)
+![Show All](https://github.com/aaysenur/tutor-student-match/blob/master/screenshots/show-all.png "Show all")
 
 # General create-react-app Instructions
 
