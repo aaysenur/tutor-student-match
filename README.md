@@ -16,6 +16,8 @@ To deploy the application - Self Contained Mode - :
 ## Screenshots
 Below you can see the screenshots of the application in different viewports.
 
+![Initial Full Landing Page](https://github.com/aaysenur/tutor-student-match/blob/master/screenshots/full-landing-page.png "Initial Full Landing Page")
+
 ![Alt text](/../<master>/screenshots/to/full_landing_page.png?raw=true "Optional Title")
 
 ![Initial Full Landing Page](screenshots/full_landing_page.png?raw=true "Initial Full Landing Page")
